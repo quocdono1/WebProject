@@ -1,1 +1,3 @@
 Duoc tao boi NhanVIenB
+
+them xoa sua NhanVienB
