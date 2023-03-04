@@ -1,2 +1,7 @@
 them file 4
+<<<<<<< HEAD
 noi dung file thu 4 
+=======
+
+noi dung file thu 4
+>>>>>>> ca426da7a1b90bee3bc0081c68df3147cb5633e0
