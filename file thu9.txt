@@ -1,9 +1,4 @@
 noi dung file 9
-
-<<<<<<< HEAD
 Thay doi Main
-=======
 sua noi dung ben nhanvienC
-
 thay doi NhanVienC
->>>>>>> NhanVienC
