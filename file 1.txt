@@ -2,4 +2,8 @@ them file thu 1
 askclklasdkja
 noi dung may tinh 1
 askclklasdkjas
+<<<<<<< HEAD
 noi dung may tinh 2
+=======
+noi dung may tinh 2
+>>>>>>> ca426da7a1b90bee3bc0081c68df3147cb5633e0
