@@ -7,3 +7,6 @@ noi dung may tinh 2
 =======
 noi dung may tinh 2
 >>>>>>> ca426da7a1b90bee3bc0081c68df3147cb5633e0
+
+
+thay doi file nhanh main
