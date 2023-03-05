@@ -1,13 +1,7 @@
 noi dung file 7
-
 them noi dung moi
-
 them 1 noi dung nua
-
 sua file 7
-
-<<<<<<< HEAD
 sua doi file Conflict NhanVienC
-=======
 Conflic file thu 7
->>>>>>> main
+
