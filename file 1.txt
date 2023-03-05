@@ -10,3 +10,5 @@ noi dung may tinh 2
 
 
 thay doi file nhanh main
+
+sua file nhanh main
