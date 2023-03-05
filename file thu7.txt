@@ -1,3 +1,5 @@
 noi dung file 7
 
 them noi dung moi
+
+them 1 noi dung nua
